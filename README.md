@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and SQL, and I'm an experienced R user.
 - 📫 Reach me via email at e.metzler37@gmail.com
 
-<--
+<!--
 ## Portfolio Directory
 
 See some of the files below for examples of work I've put together recently.
