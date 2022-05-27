@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python and SQL, and I'm an experienced R user.
 - 📫 Reach me via email at e.metzler37@gmail.com
 
+<--
 ## Portfolio Directory
 
 See some of the files below for examples of work I've put together recently.
@@ -24,3 +25,4 @@ See some of the files below for examples of work I've put together recently.
 * [nfl-predictR - R](https://github.com/ElliottMetzler/nfl-predictR): In progress. Final Project for Data Mining and Statistical Learning. Goal of the project is to use NFL data scraped from the web to attempt to (1) predict regular season outcomes and (2) predict regular season point spreads.
 * [IMDb Analysis - Python](https://github.com/ElliottMetzler/midterm-project-imdb): Midterm Project for Python, Data, and Databases. Goal of the project was to pull data and perform some interesting analysis. My main tasks on the team were to write the web scraper and data cleaner and manage Git.
 * [Data Mining and Statistical Learning Assignments Repo - R](https://github.com/ElliottMetzler/data-mining-hws): Contains various assignments from Data Mining and Statistical Learning throughout the semester.
+-->
